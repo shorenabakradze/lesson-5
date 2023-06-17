@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('OpenSansCondensed-Regular.eot');
+    src: url('OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OpenSansCondensed-Regular.woff2') format('woff2'),
+        url('OpenSansCondensed-Regular.woff') format('woff'),
+        url('OpenSansCondensed-Regular.ttf') format('truetype'),
+        url('OpenSansCondensed-Regular.svg#OpenSansCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Bold.eot');
+    src: url('Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Bold.woff2') format('woff2'),
+        url('Roboto-Bold.woff') format('woff'),
+        url('Roboto-Bold.ttf') format('truetype'),
+        url('Roboto-Bold.svg#Roboto-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
